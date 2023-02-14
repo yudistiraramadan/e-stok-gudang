@@ -42,7 +42,7 @@
 		<div class="main-panel">
 			<div class="content">
 				<div class="page-inner">
-					<h4 class="page-title">Dashboard</h4>
+					@yield('content')
 				</div>
 			</div>
 			
